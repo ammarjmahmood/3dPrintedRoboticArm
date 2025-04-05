@@ -4,8 +4,7 @@
 The Desk Robotic Arm is a fully functional, 3D-printed robotic arm designed to sit on your desk and perform a variety of tasks. This project combines precision engineering with accessible electronics and software, making advanced robotics available for home use.
 
 <div align="center">
-  <img src="[figure1.pn](https://i.postimg.cc/Y2x8G46W/IMG-3304.avif)" alt="CAD Model" width="400"/>
-  <img src="[IMG-3304.avif](https://postimg.cc/MXv1gpr6)" alt="Printed Version" width="400"/>
+  <img src="figure1.png" alt="CAD Model" width="400"/>
   <p><i>Left: CAD Model designed in Onshape | Right: Final 3D printed implementation with electronics</i></p>
 </div>
 

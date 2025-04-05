@@ -5,7 +5,7 @@ The Desk Robotic Arm is a fully functional, 3D-printed robotic arm designed to s
 
 <div align="center">
   <img src="figure1.png" alt="CAD Model" width="400"/>
-  <img src="https://github.com/ammarjmahmood/3dPrintedRoboticArm/blob/main/Figure2.png?raw=true" alt="Printed Version" width="400"/>
+  <img src="https://github.com/ammarjmahmood/3dPrintedRoboticArm/blob/main/Figure2.png" alt="Printed Version" width="400"/>
   <p><i>Left: CAD Model designed in Onshape | Right: Final 3D printed implementation with electronics</i></p>
 </div>
 
